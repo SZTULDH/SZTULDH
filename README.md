@@ -42,9 +42,9 @@ I'm a passionate developer who loves to build innovative AI projects and solve c
 ## 🌟 Featured Projects
 
 ### [Prompt-driven Image Retrieval Tool](https://github.com/SZTULDH/prompt-image-retrieval)
-A powerful image retrieval system driven by natural language prompts using advanced computer vision techniques.
+A powerful image retrieval system driven by natural language prompts using LLM Prompt&Agent techniques.
 
-**Tech Stack:** Python, Deep Learning, Computer Vision
+**Tech Stack:** Python, Prompt Engineering , RAG
 
 ### [GCN with Attention Layer for Enzyme Dataset Modeling](https://github.com/SZTULDH/gcn-enzyme-modeling)
 Graph Convolutional Network with attention mechanism for enzyme classification and property prediction.
