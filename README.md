@@ -1,8 +1,8 @@
 # 👋 Hi, I'm SZTULDH!
 
-**`Digital Craftsman (Developer/Researcher/Problem Solver)`**
+**`Digital Craftsman (Developer&Problem Solver)`**
 
-I'm a passionate developer who loves to build innovative projects and solve complex problems. Welcome to my GitHub profile!
+I'm a passionate developer who loves to build innovative AI projects and solve complex problems. Welcome to my GitHub profile!
 
 ---
 
@@ -62,6 +62,8 @@ A web-based tool for previewing and managing academic transcripts (Under Develop
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sztuldh@outlook.com)
 
+[![CSDN](https://img.shields.io/badge/CSDN-FF4D4D?style=for-the-badge&logo=csdn&logoColor=white)]([https://blog.csdn.net/SZTULDH](https://blog.csdn.net/2301_81453579))
+
 ---
 
 <div align="center">
@@ -69,6 +71,6 @@ A web-based tool for previewing and managing academic transcripts (Under Develop
 ### ⚡ Fun Fact:
 _I enjoy transforming complex ideas into elegant code solutions! 💡➡️💻_
 
-![Visitor Count](https://profile-counter.glitch.me/SZTULDH/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/SZTULDH/count.svg) -->
 
 </div>
