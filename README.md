@@ -38,7 +38,7 @@ I'm a passionate developer who loves to build innovative AI projects and solve c
 </div>
 
 ---
-
+<!--
 ## 🌟 Featured Projects
 
 ### [Prompt-driven Image Retrieval Tool](https://github.com/SZTULDH/prompt-image-retrieval)
@@ -52,6 +52,23 @@ Graph Convolutional Network with attention mechanism for enzyme classification a
 **Tech Stack:** Python, PyTorch, GCN, Attention Mechanisms
 
 ### [SZTU Transcript Preview Tool](https://github.com/SZTULDH/sztu-transcript-preview)
+A web-based tool for previewing and managing academic transcripts (Under Development).
+
+**Tech Stack:** Flask, HTML5, CSS3, Python
+-->
+## 🌟 Featured Projects
+
+### [Prompt-driven Image Retrieval Tool]
+A powerful image retrieval system driven by natural language prompts using LLM Prompt&Agent techniques.
+
+**Tech Stack:** Python, Prompt Engineering , RAG
+
+### [GCN with Attention Layer for Enzyme Dataset Modeling]
+Graph Convolutional Network with attention mechanism for enzyme classification and property prediction.
+
+**Tech Stack:** Python, PyTorch, GCN, Attention Mechanisms
+
+### [SZTU Transcript Preview Tool]
 A web-based tool for previewing and managing academic transcripts (Under Development).
 
 **Tech Stack:** Flask, HTML5, CSS3, Python
