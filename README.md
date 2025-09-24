@@ -61,7 +61,6 @@ A web-based tool for previewing and managing academic transcripts (Under Develop
 ## 📫 Get In Touch!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sztuldh@outlook.com)
-
 [![CSDN](https://img.shields.io/badge/CSDN-FF4D4D?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/2301_81453579)
 
 ---
