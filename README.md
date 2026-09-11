@@ -31,51 +31,34 @@ I'm a passionate developer who loves to build innovative AI projects and solve c
 
 <div align="center">
   
-![SZTULDH's GitHub stats](https://github-readme-stats.vercel.app/api?username=SZTULDH&show_icons=true&theme=radical)
+![SZTULDH's GitHub stats](https://github-stats-extended.vercel.app/api?username=SZTULDH&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SZTULDH&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=SZTULDH&layout=compact&theme=radical)
 
 </div>
 
 ---
-<!--
+
 ## 🌟 Featured Projects
 
-### [Prompt-driven Image Retrieval Tool](https://github.com/SZTULDH/prompt-image-retrieval)
-A powerful image retrieval system driven by natural language prompts using LLM Prompt&Agent techniques.
+### [sandbox-debugger](https://github.com/SZTULDH/sandbox-debugger)
+Facing Agent 的 Python source-level sandbox debugging capabilities (breakpoints / single-step / stack / evaluation / trajectory + MCP + skills).
 
-**Tech Stack:** Python, Prompt Engineering , RAG
+**Tech Stack:** Python, MCP, Agent debugging
 
-### [GCN with Attention Layer for Enzyme Dataset Modeling](https://github.com/SZTULDH/gcn-enzyme-modeling)
-Graph Convolutional Network with attention mechanism for enzyme classification and property prediction.
+### [Hy3-Process-Evaluation-Error-Localization](https://github.com/SZTULDH/Hy3-Process-Evaluation-Error-Localization)
+Verifiable scenario: process evaluation and error localization - Hy3 application with process-level evaluation, error localization, and error type classification.
 
-**Tech Stack:** Python, PyTorch, GCN, Attention Mechanisms
+**Tech Stack:** Python, Hy3, Process evaluation
 
-### [SZTU Transcript Preview Tool](https://github.com/SZTULDH/sztu-transcript-preview)
-A web-based tool for previewing and managing academic transcripts (Under Development).
+### [fish-functions](https://github.com/SZTULDH/fish-functions)
+Useful Fish shell functions.
 
-**Tech Stack:** Flask, HTML5, CSS3, Python
--->
-## 🌟 Featured Projects
-
-### [Prompt-driven Image Retrieval Tool]
-A powerful image retrieval system driven by natural language prompts using LLM Prompt&Agent techniques.
-
-**Tech Stack:** Python, Prompt Engineering , RAG
-
-### [GCN with Attention Layer for Enzyme Dataset Modeling]
-Graph Convolutional Network with attention mechanism for enzyme classification and property prediction.
-
-**Tech Stack:** Python, PyTorch, GCN, Attention Mechanisms
-
-### [SZTU Transcript Preview Tool]
-A web-based tool for previewing and managing academic transcripts (Under Development).
-
-**Tech Stack:** Flask, HTML5, CSS3, Python
+**Tech Stack:** Shell, Fish
 
 ---
 
-## 📫 Get In Touch!
+## 📬 Get In Touch!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sztuldh@outlook.com)
 [![CSDN](https://img.shields.io/badge/CSDN-FF4D4D?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/2301_81453579)
@@ -85,8 +68,6 @@ A web-based tool for previewing and managing academic transcripts (Under Develop
 <div align="center">
 
 ### ⚡ Fun Fact:
-_I enjoy transforming complex ideas into elegant code solutions! 💡➡️💻_
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/SZTULDH/count.svg) -->
+_I enjoy transforming complex ideas into elegant code solutions! 💡➔💻_
 
 </div>
